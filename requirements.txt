@@ -1,11 +1,7 @@
-pandas
-python-dotenv
-openpyxl
-huggingface
-transformers
-sentence-transformers
-langchain
 faiss-cpu
-chromadb
-pgvector
-openai
+langchain
+pandas
+PyPDF
+sentence-transformers
+tfds-nightly
+transformers
